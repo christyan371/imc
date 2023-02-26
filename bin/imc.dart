@@ -1,4 +1,5 @@
 void main() {
+//   calcular IMC
   double weight = 64.5; //peso 
   double height = 1.68; //altura
 
