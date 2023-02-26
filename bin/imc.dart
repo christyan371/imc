@@ -1,8 +1,8 @@
 void main() {
-  double weight = 64.5;
-  double height = 1.68;
+  double weight = 64.5; //peso 
+  double height = 1.68; //altura
 
-  double result = weight / (height * height);
+  double result = weight / (height * height); //peso dividido pela altura²
 
-  print(result);
+  print(result); // resultado
 }
