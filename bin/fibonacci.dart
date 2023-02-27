@@ -1,6 +1,6 @@
 void main() {
-  print("Os primeiros 10 termos da sequência de Fibonacci são:");
-  for (int i = 0; i < 10; i++) {
+  print("Os primeiros 12 termos da sequência de Fibonacci são:");
+  for (int i = 0; i < 12; i++) {
     print("${fibonacci(i)}");
   }
 }
